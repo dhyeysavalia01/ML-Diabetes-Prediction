@@ -71,6 +71,9 @@ streamlit run app.py
 - Tracked training loss per iteration for plotting
 - Binary classification (diabetic vs non-diabetic)
 
+## 🕸️ Architecture
+![Architecture Diagram](images/architecture.png)
+
 ## 📁 Project Structure
 ```bash
 Diabetes-Prediction/
